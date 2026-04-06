@@ -1,9 +1,12 @@
-<h1 align = "center">
-  <img width="40" vertical-align="middle" alt="image" src="https://github.com/user-attachments/assets/8f0bea7c-d3a4-4791-a3e0-37796f1c0016" />
-  Access-Explorer 連携自動化ツール
-  <img width="40" vertical-align="middle" src="https://github.com/user-attachments/assets/7d77e84f-7afe-4eff-b040-1b4f6e3da729" />
+<h1 align="center">
+  <img width="40" src="https://github.com/user-attachments/assets/8f0bea7c-d3a4-4791-a3e0-37796f1c0016" style="vertical-align: middle;">
+  <span style="vertical-align: middle;">Access-Explorer 連携自動化ツール</span>
+  <img width="40" src="https://github.com/user-attachments/assets/7d77e84f-7afe-4eff-b040-1b4f6e3da729" style="vertical-align: middle;">
 </h1>
-～自動でフォルダを開き、ヒューマンエラーを <font color="#e63946">**ゼロ**</font> に。～
+
+<p align="center">
+  ～自動でフォルダを開き、ヒューマンエラーを $`\color{#e63946}{\textbf{\textsf{ゼロ}}}`$ に。～
+</p>
 
 ## 📖 想定される業務
 業務システム上で、表示中のレコードに関連する「特定のWindowsフォルダ」を即座に開くシーンを想定しています。
