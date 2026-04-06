@@ -4,9 +4,8 @@
   <img width="40" src="https://github.com/user-attachments/assets/7d77e84f-7afe-4eff-b040-1b4f6e3da729" style="vertical-align: middle;">
 </h1>
 
-<p align="center">
-  ～自動でフォルダを開き、ヒューマンエラーを $`\color{#e63946}{\textbf{\textsf{ゼロ}}}`$ に。～
-</p>
+<h4 align="center">自動でフォルダを開き、ヒューマンエラーを<h4 align="center">
+<h2 align="center">$\color{#e63946}{低減！}$<h2>
 
 ## 📖 想定される業務
 業務システム上で、表示中のレコードに関連する「特定のWindowsフォルダ」を即座に開くシーンを想定しています。
